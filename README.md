@@ -25,3 +25,10 @@ To design a drone-based navigation aid using an ESP32 microcontroller and variou
 5. 3D modeling and frame printing
 6. Flight testing and debugging
 7. Final assembly and refinement
+   
+## 🙏 Credits
+
+This project was inspired and guided by the works of:
+
+- [Electronoobs](https://www.youtube.com/watch?v=aztm_8qGVfc) — for foundational tutorials and insights into drone electronics and flight control concepts.
+- [rtlopez](https://github.com/rtlopez/esp-fc) — for the ESP-FC firmware and detailed documentation that served as a major reference for the ESP32 flight controller setup.
