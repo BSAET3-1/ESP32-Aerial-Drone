@@ -31,3 +31,5 @@ This project was inspired and guided by the works of:
 
 - [Electronoobs](https://www.youtube.com/watch?v=aztm_8qGVfc) — for foundational tutorials and insights into drone electronics and flight control concepts.
 - [rtlopez](https://github.com/rtlopez/esp-fc) — for the ESP-FC firmware and detailed documentation that served as a major reference for the ESP32 flight controller setup.
+- .[dchristl](https://github.com/dchristl/macless-haystack)
+- Macless Airtag for gps tracking using a ESP32 D1 Mini
