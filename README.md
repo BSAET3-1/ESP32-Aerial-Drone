@@ -11,7 +11,7 @@ To design a drone-based navigation aid using an ESP32 microcontroller and variou
 - Barometer BMP280 / BMP180
 - GPS Module
 - Arduino Nano
-- Brushless Motors (SoloGood 2807)
+- Brushless Motors (SoloGood 2207)
 - ESC (DYS AM32 4-in-1)
 - Tattu R-Line 1800mAh 4S Battery
 - Various Resistors, Capacitors, Transistors
