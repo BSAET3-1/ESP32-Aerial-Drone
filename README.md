@@ -5,17 +5,16 @@ This project presents the development of a basic Navigation Aid system as part o
 To design a drone-based navigation aid using an ESP32 microcontroller and various components to support manual and autonomous flight capabilities.
 
 ## 🛠 Materials Used
-- ESP32 DevKitC
+- ESP32 S2 Mini
 - NRF24L01+ PA+LNA Module
 - MPU6050
-- Barometer BMP280 / BMP180
-- GPS Module
+- ESP AirTag Module
 - Arduino Nano
 - Brushless Motors (SoloGood 2207)
-- ESC (DYS AM32 4-in-1)
+- ESC (DYS 65A AM32 4-in-1)
 - Tattu R-Line 1800mAh 4S Battery
 - Various Resistors, Capacitors, Transistors
-- 3D Printed Frame
+- 3D Printed ASA Frame
 
 ## ⚙️ Procedure
 1. Component testing and inventory
