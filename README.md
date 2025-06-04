@@ -1,4 +1,5 @@
-## 📌 Overview
+## 📌 Overview "Proceed with caution even though this project was successful. The documentation for this is still lacking and needs to be updated."
+
 This project presents the development of a basic Navigation Aid system as part of a midterm requirement for the Philippine State College of Aeronautics. It includes the design, component selection, and assembly of the system to assist users in understanding basic navigation and drone principles.
 
 ## 🎯 Objective
